@@ -2,7 +2,7 @@
 
 `newrepos` creates new git repository in your GOPATH environment.
 
-## installation
+## Installation
 
 	go get [-u] github.com/suzuken/newrepos
 
@@ -10,3 +10,7 @@
 
 	$ newrepos github.com/suzuken/example
 	Initialized empty Git repository in /Users/ke-suzuki/src/github.com/suzuken/hoge/.git/
+
+## License
+
+MIT
